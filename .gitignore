@@ -1,0 +1,27 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Python 虚拟环境
+venv/
+.venv/
+
+# API 密钥和环境配置
+.env
+.env.*
+
+# 本地模型
+models/
+
+# 本地数据库（部署时重新构建）
+chroma_db/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# PyCharm 项目配置
+.idea/
+
+# Office 临时文件
+~$*

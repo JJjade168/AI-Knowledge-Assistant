@@ -1,0 +1,21 @@
+# RAG  — 依赖包（最新版）
+langchain
+langchain-openai
+langchain-core
+langchain-classic
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+unstructured
+python-docx
+markdown
+tiktoken
+rank_bm25
+python-dotenv
+fastapi
+uvicorn
+
